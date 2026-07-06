@@ -125,7 +125,7 @@ pip install -r requirements.txt
 Ejecuta la app:
 
 ```bash
-streamlit run app_analysis_2.py
+streamlit run app_analysis.py
 ```
 
 ## Dependencias
@@ -148,7 +148,7 @@ Las dependencias se declaran en `requirements.txt`:
 La aplicacion vive en:
 
 ```text
-app_analysis_2.py
+app_analysis.py
 ```
 
 ## Notas tecnicas
